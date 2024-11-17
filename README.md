@@ -12,5 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Resources
 
-- [https://bolt.new/~/sb1-9nxet4](Bolt Project)
-- [https://github.com/jessehhydee/threejs-globe](jessehhydee/threejs-globe)
+- [Bolt Project](https://bolt.new/~/sb1-9nxet4)
+- [jessehhydee/threejs-globe](https://github.com/jessehhydee/threejs-globe)
