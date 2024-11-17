@@ -11,7 +11,7 @@ export function PageClient() {
   const [focusedTransaction, setFocusedTransaction] = useState<
     Transaction | undefined
   >();
-  const [locations, setLocations] = useState<LocationData[]>([]);
+  const [, setLocations] = useState<LocationData[]>([]);
   const [hoveredLocationId, setHoveredLocationId] = useState<string | null>(
     null
   );

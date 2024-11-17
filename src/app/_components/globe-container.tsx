@@ -18,6 +18,7 @@ export function GlobeContainer({
   hoveredLocationId,
 }: GlobeContainerProps) {
   const globeRef = useRef<GlobeRef>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const controlsRef = useRef<any>(null);
 
   React.useEffect(() => {
